@@ -20,7 +20,7 @@ __________
 
 ### Steps to train the reader
 __________
-We trained the reader utilizing the Wikipedia and SQuAD datasets, so you can either train it yourself following the steps <a href="">here</a> (it takes around 2 hours on a RTX2080Ti), or download the <a href="https://github.com/andrenatal/DrQA/tree/mdn#trained-models-and-data">pre-trained models this way </a>. I suggest downloading/training but the sindle as the multitask models. Save the `.mdl` files into the `data/mdn` folder.
+We trained the reader utilizing the Wikipedia and SQuAD datasets, so you can either train it yourself following the steps <a href="">here</a> (it takes around 2 hours on a RTX2080Ti), or download the <a href="https://github.com/andrenatal/DrQA/tree/mdn#trained-models-and-data">pre-trained models this way </a>. I suggest downloading/training both the simple as the multitask models. Save the `.mdl` files into the `data/mdn` folder.
 
 ### Steps to train the retriever
 __________
